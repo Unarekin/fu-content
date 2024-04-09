@@ -1,0 +1,40 @@
+{
+  "id": "fu-content",
+  "name": "fu-content",
+  "title": "Fabula Ultima Content",
+  "description": "Content module for Fabula Ultima items, classes, etc.",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "11",
+  "system": "projectfu",
+  "compatibility": {
+    "minimum": "0.8.6",
+    "verified": "11"
+  },
+  "author": "Erica",
+  "authors": [
+    {
+      "name": "Erica"
+    }
+  ],
+  "packs": [],
+  "esmodules": [],
+  "dependencies": [],
+  "relationships": {
+    "systems": [
+      {
+        "id": "projectfu",
+        "type": "system",
+        "manifest": "https://github.com/League-of-Fabulous-Developers/FoundryVTT-Fabula-Ultima/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "2.3.0",
+          "verified": "2.3.0"
+        }
+      }
+    ]
+  },
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "manifestPlusVersion": "1.2.0"
+}
