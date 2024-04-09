@@ -17,7 +17,22 @@
       "name": "Erica"
     }
   ],
-  "packs": [],
+  "packs": [
+    {
+      "label": "Weapons",
+      "name": "fu-weapons",
+      "type:": "Item",
+      "system": "projectfu",
+      "path": "packs/weapons"
+    },
+    {
+      "label": "Armor & Shields",
+      "name": "fu-armor-shields",
+      "type": "Item",
+      "system": "projectfu",
+      "path": "packs/armor-and-shields"
+    }
+  ],
   "esmodules": [],
   "dependencies": [],
   "relationships": {
