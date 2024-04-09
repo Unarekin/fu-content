@@ -17,7 +17,22 @@
       "name": "Erica"
     }
   ],
-  "packs": [],
+  "packs": [
+    {
+      "label": "Weapons",
+      "name": "fu-weapons",
+      "type:": "Item",
+      "system": "projectfu",
+      "path": "packs/weapons"
+    },
+    {
+      "label": "Armor & Shields",
+      "name": "fu-armor-shields",
+      "type": "Item",
+      "system": "projectfu",
+      "path": "packs/armor-and-shields"
+    }
+  ],
   "esmodules": [],
   "dependencies": [],
   "relationships": {
@@ -33,8 +48,10 @@
       }
     ]
   },
-  "url": "",
-  "manifest": "",
-  "download": "",
+  "url": "https://github.com/Unarekin/fu-content",
+  "manifest": "https://raw.githubusercontent.com/Unarekin/fu-content/master/module.json",
+  "download": "https://github.com/Unarekin/fu-content/archive/v1.0.0.zip",
+  "readme": "https://github.com/Unarekin/fu-content/blob/main/README.md",
+  "bugs": "https://github.com/Unarekin/fu-content/issues",
   "manifestPlusVersion": "1.2.0"
 }
