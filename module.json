@@ -38,6 +38,20 @@
       "type": "Item",
       "system": "projectfu",
       "path": "packs/consumables"
+    },
+    {
+      "label": "Classes",
+      "name": "fu-core-classes",
+      "type": "Item",
+      "system": "projectfu",
+      "path": "packs/classes"
+    },
+    {
+      "label": "Roll Tables",
+      "name": "fu-roll-tables",
+      "type": "RollTable",
+      "system": "projectfu",
+      "path": "packs/roll-tables"
     }
   ],
   "esmodules": [],
