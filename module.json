@@ -3,7 +3,7 @@
   "name": "fu-content",
   "title": "Fabula Ultima Content",
   "description": "Content module for Fabula Ultima items, classes, etc.",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "11",
   "system": "projectfu",
@@ -70,8 +70,8 @@
     ]
   },
   "url": "https://github.com/Unarekin/fu-content",
-  "manifest": "https://raw.githubusercontent.com/Unarekin/fu-content/master/module.json",
-  "download": "https://github.com/Unarekin/fu-content/archive/v1.0.0.zip",
+  "manifest": "",
+  "download": "",
   "readme": "https://github.com/Unarekin/fu-content/blob/main/README.md",
   "bugs": "https://github.com/Unarekin/fu-content/issues",
   "manifestPlusVersion": "1.2.0"
