@@ -52,6 +52,20 @@
       "type": "RollTable",
       "system": "projectfu",
       "path": "packs/roll-tables"
+    },
+    {
+      "label": "Bestiary",
+      "name": "fu-bestiary",
+      "type": "Actor",
+      "system": "projectfu",
+      "path": "packs/bestiary"
+    },
+    {
+      "label": "Accessories",
+      "name": "fu-accessories",
+      "type": "Item",
+      "system": "projectfu",
+      "path": "packs/accessories"
     }
   ],
   "esmodules": [],
