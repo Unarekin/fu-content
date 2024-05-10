@@ -40,7 +40,7 @@
       "path": "packs/consumables"
     },
     {
-      "label": "Classes",
+      "label": "Classes - Core",
       "name": "fu-core-classes",
       "type": "Item",
       "system": "projectfu",
@@ -73,6 +73,13 @@
       "type": "Item",
       "system": "projectfu",
       "path": "packs/custom-weapons"
+    },
+    {
+      "label": "Classes - High Fantasy",
+      "name": "fu-hf-classes",
+      "type": "Item",
+      "system": "projectfu",
+      "path": "packs/classes-high-fantasy"
     }
   ],
   "esmodules": [],
